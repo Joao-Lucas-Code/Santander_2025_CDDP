@@ -1,0 +1,11 @@
+.env
+
+postgres_data/
+*.db
+*.sqlite
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+node_modules/
